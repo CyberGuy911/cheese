@@ -1,7 +1,5 @@
 POWERPOINTS:
 
-
-```markdown
 # SENG 365 Week 1
 ## Intro to Web Computing Architectures
 
